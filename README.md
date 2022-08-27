@@ -2,6 +2,8 @@
 
 This is an archive of the projects I did for obtaining my self-driving car engineer nanodegree in 2019. Here is my [certificate](https://graduation.udacity.com/confirm/AU7N4V).
 
+In each project folder you will see a README file describing the project. 
+
 It was a really fun online program as I learned some key aspects of a self-driving car: Perception, Localization, Planning, and Control. 
 
 On perception, I learned basic computer vision techniques (edge detection, space transforms, thresholding, distortion removal, perspective transform) as well as using deep learning models to classify image data (e.g. traffic sign recognition). Furthermore, I also learned how a car could perceive its surroundings from sensor fusion (tracking other objects it sees e.g. through LIDAR and RADAR data)
@@ -14,8 +16,11 @@ I also learned how to control the outputs of the car (e.g. torque) using PID con
 
 Finally, I worked on a capstone project in ROS that essentially covers most of the things I learned by writing these subsytems as ROS nodes and allowing them to communicate with one another via ROS topics.
 
-Note: In each project folder you will see a README file describing the project. When i was doing it in 2019 (I was quite new to coding, ML, and robotics back then), I wrote READMEs only for some projects. Thus, recently I went to review the other projects and wrote READMEs as best as I can describing what I remember doing, especially highlighting the theoretical aspects based on what I learned in the lectures. 
+Note: When i was doing it in 2019 (I was quite new to coding, ML, and robotics back then), I wrote READMEs only for some projects. Thus, recently I went to review the other projects and wrote READMEs as best as I can describing what I remember doing, especially highlighting the theoretical aspects based on what I learned in the lectures. 
 
-
-
+## Highlights
+<img src="./assets/lanedetect.png " alt="drawing" width="800"/>
+<img src="./assets/ekf_simulation.png " alt="drawing" width="800"/>
+<img src="./assets/pf_simulation.png " alt="drawing" width="800"/>
+<img src="./assets/lanechange.gif " alt="drawing" width="800"/>
 

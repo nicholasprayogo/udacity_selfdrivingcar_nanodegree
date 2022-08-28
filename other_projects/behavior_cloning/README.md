@@ -1,7 +1,8 @@
 # **Behavioral Cloning** 
 
 
-### I am using the writeup template provided by Udacity to explain my pipeline implementing project 4 of the Self-driving Car Engineer Nanodegree: Term 1.
+I am using the writeup template provided by Udacity to explain my pipeline implementing project 4 of the Self-driving Car Engineer Nanodegree: Term 1.
+Note: Written in 2019
 
 ---
 

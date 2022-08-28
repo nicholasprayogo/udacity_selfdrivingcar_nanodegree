@@ -2,7 +2,8 @@
 
 ## Writeup
 
-## template given by Udacity
+written in 2019
+Template given by Udacity
 
 ---
 [image1]: ./images/distrib.png
